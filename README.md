@@ -1,7 +1,6 @@
 # Interactive Turtle Drawing App 🐢
 This is a simple interactive drawing application built using Python's `turtle` and `random` modules. The program allows a user to control a turtle on the screen using keyboard inputs to draw and change colors.
 
-<hr>
 
 ### You can check out the video demo in my [tweet](https://x.com/nazanin_ashrafi/status/1957866431917207995).
 
