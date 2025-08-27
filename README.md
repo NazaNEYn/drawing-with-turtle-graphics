@@ -3,6 +3,11 @@ This is a simple interactive drawing application built using Python's `turtle` a
 
 <hr>
 
+## You can check out the video demo in my [tweet](https://x.com/nazanin_ashrafi/status/1957866431917207995).
+
+<hr>
+
+
 # Features ✨
 * **Move Forward/Backward**: The turtle can be moved forwards and backwards to create lines.
 
@@ -50,6 +55,5 @@ The code is divided into two files for better organization:
 
 
 
-* You can check out the video sample in my [tweet](https://x.com/nazanin_ashrafi/status/1957866431917207995).
 
 
